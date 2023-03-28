@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+    background: #000000;
+    margin: auto;
+}
+
+section {
+    height: 100px;
+    width: 720px;
+    color: #fff;
+    text-align: center;
+    border: 1px solid #fff;
+    padding: auto;
+    margin: 10px auto;
+}
+
+h1 {
+    height: auto;
+    width: auto;
+    color: #6b0000;
+}
+
+canvas {
+    display: block;
+    border: 1px solid #fff;
+    padding: auto;
+    margin: auto;
+}
+
+span {
+    text-align: center;
+    color: #ffff;
+}
