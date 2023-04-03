@@ -40,7 +40,7 @@ function create() {
         const distance = Math.sqrt(dx * dx + dy * dy);
 
         // Calculate duration of movement based on the distance
-        const speed = 100; //sprites per second
+        const speed = 75; //sprites per second
         const duration = distance / speed * 1000;
 
         // Moving the player to target position
